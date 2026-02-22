@@ -1,0 +1,6 @@
+Tasks:
+- id
+- title
+- deadline
+- status
+- category
