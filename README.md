@@ -1,2 +1,2 @@
-# student-task-manager-
+# student-task-manager
 Десктопное приложение для управления задачами студента
